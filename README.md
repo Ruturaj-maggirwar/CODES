@@ -1,2 +1,2 @@
 # CODES
-BASIC CODES FOR OBJECT ORIENTED PROGRAMMING IN C++
+Basic codes for object oriented programming in C++
